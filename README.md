@@ -35,8 +35,8 @@ OneCopyThinkerシリーズの画像生成版です。汎用の[OneCopyThinker](h
 ### 使い方
 
 #### Step 1: テンプレートをコピー
-- [📄 日本語版テンプレート](./prompts/ultimate_prompt_ja.md)
-- [📄 English Template](./prompts/ultimate_prompt_en.md)
+- [📄 日本語版テンプレート](./ultimate_prompt_ja.md)
+- [📄 English Template](./ultimate_prompt_en.md)
 
 #### Step 2: AIツールに貼り付け
 **ChatGPT Plus:**
@@ -155,8 +155,8 @@ This is the image generation version of the OneCopyThinker series. It uses the s
 ### How to Use
 
 #### Step 1: Copy the Template
-- [📄 Japanese Template](./prompts/ultimate_prompt_ja.md)
-- [📄 English Template](./prompts/ultimate_prompt_en.md)
+- [📄 Japanese Template](./ultimate_prompt_ja.md)
+- [📄 English Template](./ultimate_prompt_en.md)
 
 #### Step 2: Paste into AI Tool
 **ChatGPT Plus:**
@@ -252,13 +252,9 @@ We welcome improvements that maintain the "one-copy-paste usability" principle o
 
 ```
 OneCopyThinker-ImageGen/
-├── README.md                        # This file
-├── prompts/
-│   ├── ultimate_prompt_ja.md        # Japanese template
-│   └── ultimate_prompt_en.md        # English template
-└── examples/
-    ├── basic_usage.md               # Basic usage examples
-    └── advanced_tips.md             # Advanced tips
+├── README.md                   # This file
+├── ultimate_prompt_ja.md       # Japanese template
+└── ultimate_prompt_en.md       # English template
 ```
 
 ### License
