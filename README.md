@@ -57,7 +57,9 @@ Based on the following information, create an optimized prompt for AI image gene
 OneCopyThinker-ImageGen/
 ├── README.md                    # This documentation
 ├── prompts/
-│   └── ultimate_prompt.md      # The definitive template from AI dialogue research
+│   ├── ultimate_prompt_en.md   # English template
+│   ├── ultimate_prompt_ja.md   # Japanese template (日本語版)
+│   └── README.md               # Language selection guide
 ├── examples/
 │   ├── basic_usage.md          # Step-by-step usage examples
 │   └── results_showcase.md     # Generated image samples
@@ -76,13 +78,13 @@ Based on extensive AI-to-AI dialogue research, this tool embodies:
 
 ### 🚀 Getting Started
 
-**[👉 Get the Ultimate Prompt Here](./prompts/ultimate_prompt.md)** ← Click to access the template
+**[👉 English Template](./prompts/ultimate_prompt_en.md)** | **[👉 日本語テンプレート](./prompts/ultimate_prompt_ja.md)**
 
-1. **Navigate** to [prompts/ultimate_prompt.md](./prompts/ultimate_prompt.md)
+1. **Choose your language** and click the template link above
 2. **Copy** the entire template code block
 3. **Paste** into ChatGPT, Claude, or similar AI
 4. **Fill** the three information fields with your requirements
-5. **Use** the generated English prompt in DALL-E, Stable Diffusion, etc.
+5. **Use** the generated optimized prompt in DALL-E, Stable Diffusion, etc.
 
 ### ⚖️ Legal & Ethical Considerations
 
@@ -158,7 +160,9 @@ We welcome contributions that maintain our core principle: **maximum simplicity 
 OneCopyThinker-ImageGen/
 ├── README.md                    # このドキュメント
 ├── prompts/
-│   └── ultimate_prompt.md      # AI対話研究による決定版テンプレート
+│   ├── ultimate_prompt_en.md   # 英語版テンプレート
+│   ├── ultimate_prompt_ja.md   # 日本語版テンプレート
+│   └── README.md               # 言語選択ガイド
 ├── examples/
 │   ├── basic_usage.md          # ステップ別使用例
 │   └── results_showcase.md     # 生成画像サンプル
@@ -177,13 +181,13 @@ OneCopyThinker-ImageGen/
 
 ### 🚀 はじめ方
 
-**[👉 決定版プロンプトはこちら](./prompts/ultimate_prompt.md)** ← クリックでテンプレートにアクセス
+**[👉 English Template](./prompts/ultimate_prompt_en.md)** | **[👉 日本語テンプレート](./prompts/ultimate_prompt_ja.md)**
 
-1. **アクセス**: [prompts/ultimate_prompt.md](./prompts/ultimate_prompt.md) を開く
+1. **言語を選択** して上のテンプレートリンクをクリック
 2. **コピー**: テンプレート全体のコードブロックをコピー
 3. **ペースト**: ChatGPT、Claude等のAIに貼り付け
 4. **入力**: 3つの情報欄にあなたの要件を記入
-5. **使用**: 生成された英語プロンプトをDALL-E、Stable Diffusion等で利用
+5. **使用**: 生成された最適化プロンプトをDALL-E、Stable Diffusion等で利用
 
 ### ⚖️ 法的・倫理的配慮
 
