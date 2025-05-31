@@ -56,11 +56,13 @@ Based on the following information, create an optimized prompt for AI image gene
 ```
 OneCopyThinker-ImageGen/
 ├── README.md                    # This documentation
-├── templates/
-│   ├── basic_prompt.md         # Core template (3-input format)
-│   ├── style_specific.md       # Style-focused variants
-│   └── commercial_use.md       # Commercial application template
-└── examples/                   # Usage examples and results
+├── prompts/
+│   └── ultimate_prompt.md      # The definitive template from AI dialogue research
+├── examples/
+│   ├── basic_usage.md          # Step-by-step usage examples
+│   └── results_showcase.md     # Generated image samples
+└── docs/
+    └── background.md           # Research background & design philosophy
 ```
 
 ### 🎨 Design Philosophy
@@ -74,11 +76,13 @@ Based on extensive AI-to-AI dialogue research, this tool embodies:
 
 ### 🚀 Getting Started
 
-1. Navigate to `templates/basic_prompt.md`
-2. Copy the entire template
-3. Paste into ChatGPT, Claude, or similar AI
-4. Fill the three information fields
-5. Use the generated English prompt in your image generation tool
+**[👉 Get the Ultimate Prompt Here](./prompts/ultimate_prompt.md)** ← Click to access the template
+
+1. **Navigate** to [prompts/ultimate_prompt.md](./prompts/ultimate_prompt.md)
+2. **Copy** the entire template code block
+3. **Paste** into ChatGPT, Claude, or similar AI
+4. **Fill** the three information fields with your requirements
+5. **Use** the generated English prompt in DALL-E, Stable Diffusion, etc.
 
 ### ⚖️ Legal & Ethical Considerations
 
@@ -153,11 +157,13 @@ We welcome contributions that maintain our core principle: **maximum simplicity 
 ```
 OneCopyThinker-ImageGen/
 ├── README.md                    # このドキュメント
-├── templates/
-│   ├── basic_prompt.md         # 基本テンプレート（3項目入力型）
-│   ├── style_specific.md       # スタイル特化版
-│   └── commercial_use.md       # 商用利用版
-└── examples/                   # 使用例と結果サンプル
+├── prompts/
+│   └── ultimate_prompt.md      # AI対話研究による決定版テンプレート
+├── examples/
+│   ├── basic_usage.md          # ステップ別使用例
+│   └── results_showcase.md     # 生成画像サンプル
+└── docs/
+    └── background.md           # 研究背景・設計思想
 ```
 
 ### 🎨 設計思想
@@ -171,11 +177,13 @@ OneCopyThinker-ImageGen/
 
 ### 🚀 はじめ方
 
-1. `templates/basic_prompt.md` にアクセス
-2. テンプレート全体をコピー
-3. ChatGPT、Claude等のAIにペースト
-4. 3つの情報欄を記入
-5. 生成された英語プロンプトを画像生成ツールで使用
+**[👉 決定版プロンプトはこちら](./prompts/ultimate_prompt.md)** ← クリックでテンプレートにアクセス
+
+1. **アクセス**: [prompts/ultimate_prompt.md](./prompts/ultimate_prompt.md) を開く
+2. **コピー**: テンプレート全体のコードブロックをコピー
+3. **ペースト**: ChatGPT、Claude等のAIに貼り付け
+4. **入力**: 3つの情報欄にあなたの要件を記入
+5. **使用**: 生成された英語プロンプトをDALL-E、Stable Diffusion等で利用
 
 ### ⚖️ 法的・倫理的配慮
 
